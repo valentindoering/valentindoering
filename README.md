@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @valentindoering
 - 🌎 https://valentindoering.de
-- 👀 I’m interested in WebApp Development
-- 🌱 I’m currently learning how to work with react
-- 📫 How to reach me: mail@valentindoering.de
+- 📫 How to reach me: valentinmdoering@gmail.com
 
 <!---
 valentindoering/valentindoering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
