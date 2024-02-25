@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valentindoering
-- 🌎 https://valentindoering.de
+- 🌎 [https://valentindoering.de](https://www.valentindoering.de/)
 - 📫 How to reach me: valentinmdoering@gmail.com
 
 <!---
